@@ -17,8 +17,8 @@ I’m a CS student at FIU who enjoys the challenge of building robust backend lo
 * **Academic:** Currently enrolled in **Internship Ready Software Development @ FIU**, focusing on team-based open-source contribution and collaborative project management
 
 ## Connect with me:
-- [LinkedIn](www.linkedin.com/in/mario-recondo-181203398)
-- [Email](Mario.recondo1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mario-recondo-181203398)
+- [Email](https://Mario.recondo1@gmail.com)
 
 <!--
 **Mario-Recondo/Mario-Recondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
